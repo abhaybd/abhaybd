@@ -3,6 +3,4 @@ Hi! I have experience in Java, Python, JS, C++, and more. I'm interested in robo
 
 Check out my [linkedin](https://www.linkedin.com/in/abhaybd/) and my [website](https://abhaybd.github.io)!
 
-![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhaybd&show_icons=true&count_private=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybd&layout=compact&langs_count=4&theme=tokyonight)
